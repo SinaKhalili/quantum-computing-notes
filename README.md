@@ -18,9 +18,12 @@ Notes and code to help me in my quantum computing class
 ## Week 3
 * More math
   * Operations on matrices using vectors
+  * Reversible gates
+  * Hermitian operators
 * Quantum gates
   * CNOT
   * Hadamard
 * Quantum assembly
   * Quil
   * OpenQASM
+ 
